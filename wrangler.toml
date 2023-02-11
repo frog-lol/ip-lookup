@@ -3,8 +3,8 @@ main = "src/index.ts"
 compatibility_date = "2022-11-05"
 
 workers_dev = false
-route = { pattern = "ip.rootnet.in/*", zone_name = "rootnet.in" }
+route = { pattern = "ip.frog.lol/*", zone_name = "frog.lol" }
 
 kv_namespaces = [
-	 { binding = "IP2NETWORK", id = "0346d14aac324605afeafddaa3719192", preview_id = "0346d14aac324605afeafddaa3719192" }
+	 { binding = "IP2NETWORK", id = "f15b1c724073431e9aff0f6e0ba23bfa", preview_id = "f15b1c724073431e9aff0f6e0ba23bfa" }
 ]
