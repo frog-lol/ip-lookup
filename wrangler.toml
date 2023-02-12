@@ -6,5 +6,5 @@ workers_dev = false
 route = { pattern = "ip.frog.lol/*", zone_name = "frog.lol" }
 
 kv_namespaces = [
-	 { binding = "IP2NETWORK", id = "f15b1c724073431e9aff0f6e0ba23bfa", preview_id = "f15b1c724073431e9aff0f6e0ba23bfa" }
+	 { binding = "IP2NETWORK", id = "3d4ab5e75c5149348c50c19600322c0c", preview_id = "3d4ab5e75c5149348c50c19600322c0c" }
 ]
